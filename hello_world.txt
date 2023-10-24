@@ -1,0 +1,2 @@
+This is crazy!
+I'm now adding multiple files into the staging area!
